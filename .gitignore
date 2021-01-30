@@ -26,3 +26,5 @@ reference
 ./reference
 reference/*
 /.metadata/
+/mysql-example/my-service-account.json
+/mysql-example/my-service-account.json
